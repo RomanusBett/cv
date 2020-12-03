@@ -19,3 +19,8 @@ h1{
 h3{
   color: #66cdaa;
 }
+/**********class SELECTORS*************/
+.circular{
+  border-radius:  100%;
+
+}
